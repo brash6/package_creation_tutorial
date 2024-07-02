@@ -1,4 +1,3 @@
-from typing import List
 
 def reverse_string(s: str) -> str:
     """

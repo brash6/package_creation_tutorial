@@ -10,6 +10,8 @@ packages = [{include = "package_creation_tutorial", from = "src"}]
 python = "^3.12"
 pytest = "^8.2.2"
 pytest-cov = "^5.0.0"
+ruff = "^0.5.0"
+pre-commit = "^3.7.1"
 
 
 [build-system]
